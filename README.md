@@ -6,7 +6,7 @@ My name is Do Van Tu. I graduated from Budapest Business School, majoring in Bus
 
 
 
-![Tu's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=iposoon&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
+
 
 <a href="https://github.com/iposoon/User-Churn-Analysis/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->

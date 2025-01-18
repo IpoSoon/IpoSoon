@@ -2,7 +2,7 @@
 My name is Do Van Tu. I graduated from Budapest Business School, majoring in Business Intelligence and Decision. I am interested in the following topics: Data is the oil field of the 21st century, how do they create big impact for businesses?<br>
 ## 📫 How to reach me: 
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/dovantu-da/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/iposoon)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/dovantu-finance/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/iposoon)
 
 
 
